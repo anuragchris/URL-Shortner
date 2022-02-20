@@ -19,7 +19,7 @@ pip install django
 
 ## Usage
 
-Go to the URL-Shortner folder and run Command Promot and run the following commands : 
+Go to the URL-Shortner folder and run Command Prompt. Now run the following commands : 
 
 ```bash
 cd {{Your current directory location (Copy-Paste it from the directory bar)}}
