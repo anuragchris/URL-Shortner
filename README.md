@@ -3,7 +3,15 @@
 
 ## Installation
 
-Python and Django need to be installed
+Python and Django needs to be installed
+
+For Python installation follow the link below : 
+
+```bash
+https://www.python.org/downloads/
+```
+
+After Installing Python, Open Command Prompt and run the following command : 
 
 ```bash
 pip install django
@@ -11,7 +19,7 @@ pip install django
 
 ## Usage
 
-Go to the College-ERP folder and run
+Go to the URL-Shortner folder and run
 
 ```bash
 python manage.py runserver
